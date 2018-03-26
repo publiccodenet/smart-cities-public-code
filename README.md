@@ -1,6 +1,6 @@
-# Foundation For Public Code Jekyll Theme Starter Kit
+# Smart Cities? Public Code! website
 
-Contentless website to be used with the Foundation For Public Code Jekyll theme and GitHub pages.
+Website for «Smart Cities? Public Code!» programme by the University of Applied Sciences Amsterdam, City of Amsterdam and the Foundation For Public Code.
 
 This site builds with [Jekyll](http://jekyllrb.com/), as is the default of [GitHub pages](https://pages.github.com/) and uses the [Foundation For Public Code Jekyll Theme](https://github.com/publiccodenet/jekyll-theme).
 
@@ -24,4 +24,4 @@ The server will rebuild the site every time a file changes, with the exception o
 
 # License
 
-© 2018 Foundation For Public Code
+© 2018 University of Applied Sciences Amsterdam, City of Amsterdam and the Foundation For Public Code
