@@ -13,3 +13,7 @@ Gemeente Amsterdam, Office of CTO
 
 * Tamas Erkelens
 * Mark van der Net
+
+Individual Contributors
+
+* Claus Mullie
