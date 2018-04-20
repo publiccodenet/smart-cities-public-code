@@ -11,3 +11,6 @@ include:
 
 # Use the Foundation For Public Code Jekyll theme
 remote_theme: publiccodenet/jekyll-theme
+
+# Display a table of contents on every page
+toc: true
