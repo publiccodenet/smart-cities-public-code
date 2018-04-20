@@ -24,6 +24,8 @@ The realisation that source and policy are both code – the former executed by 
 Public Code is an early stage concept for a type of code developed with the public interest in mind.
 It is held to standards to guarantee that it is inclusive, usable, adaptive, open and sustainable.
 
+This project builds a network of collaborators and identifies directions for new project and grant applications.
+
 ## Public Software
 
 Public Software is type of software built to operate with and as public infrastructure.
