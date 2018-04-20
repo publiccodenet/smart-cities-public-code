@@ -1,4 +1,12 @@
-# Introduction
+## Mission of this project
+
+Public Code is an early stage concept for a type of code developed with the public interest in mind. Point of departure is that in our emerging platform society, «Code == Code»: Software and policy are both code. The former executed by machines and the latter by humans. This means we need to look differently at the software developed for public tasks than we do for private tasks. It is held to standards to guarantee that it is inclusive, usable, adaptive, open and sustainable.
+
+This project aims to further develop the concept of Public Code. More concretely: How should we understand Public Code, and how can we create it? What kind of technological and institutional arrangements are needed to shift towards the production of Public Code.
+
+In a series of workshop, we want to build a network of collaborators to identify directions for the development of public code, and set up research & development projects and grant applications.
+
+## Introduction
 
 «Smart Cities? Public Code!» is a collaboration between the City of Amsterdam, the Amsterdam University of Applied Sciences and Vurb.Agency.
 
