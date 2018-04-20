@@ -131,12 +131,18 @@ This project takes that research one step further and makes it concrete by zoomi
 The project is innovative as it aims to contribute to the development of a new model for the deployment of public software for cities, taking a pubic values angle.
 This is an emerging approach that has recently gained international recognition by cities such as Amsterdam and Barcelona, yet many questions still remain open as to how to further forward this approach.
 
-Improving the position of Amsterdam University of Amsterdam
+### Improving the position of Amsterdam University of Amsterdam
+
 This project connects the AUAS with some leading actors in the field of public software development such as the Amsterdam and Barcelona CTO offices, and will strengthen its position in international networks such as the Open and Agile Smart Cities programme.
+
 Contacts with organizations and stakeholders in Barcelona and Brussel will be beneficial for it position in future international research grant applications, and being one of the initiators of the research agenda will further acknowledge its position as a leading research institute in the domain of the creative industries.
-Improving position network partners
+
+### Improving position network partners
+
 For Vurb and the City of Amsterdam, this project will lead to similar effects.
+
 Vurb can establish itself as a leading company in the internationally emerging field, and help set the agenda for the further development of public software.
+
 The city of Amsterdam can learn from international stakeholders and also present itself as one of the leading cities in Europe in this field.
 
 ## Deliverables & Activities
