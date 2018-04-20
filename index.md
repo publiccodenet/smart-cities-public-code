@@ -15,27 +15,6 @@ For creative industries players such as developers and creative agencies, it is 
 
 This project addresses these knowledge gaps through three workshops in which the most important issues for this transition will be identified, leading to a Guide for the Deployment of Public Software as well as a research agenda and an international network of stakeholders.
 
-## Contents
-
-- [Introduction](#introduction)
-  - [Contents](#contents)
-  - [Public Software](#public-software)
-  - [This project](#this-project)
-  - [Relevance in relation to the Dutch national knowledge agenda](#relevance-in-relation-to-the-dutch-national-knowledge-agenda)
-    - [Roadmap & Agenda goals](#roadmap-agenda-goals)
-      - [Design for Change - Towards Transition](#design-for-change---towards-transition)
-      - [Value Creation - Business models for Creative Professionals](#value-creation---business-models-for-creative-professionals)
-      - [Roadmap Smart Culture - Smart Cities & Societies](#roadmap-smart-culture---smart-cities-societies)
-  - [Network, Relevant Questions & Knowledge Gaps](#network-relevant-questions-knowledge-gaps)
-  - [How does it contribute to the Dutch topsector Creative Industries](#how-does-it-contribute-to-the-dutch-topsector-creative-industries)
-  - [Innovation](#innovation)
-  - [Deliverables & Activities](#deliverables-activities)
-  - [Research plan](#research-plan)
-  - [Partners](#partners)
-    - [Gemeente Amsterdam, Office of CTO](#gemeente-amsterdam-office-of-cto)
-    - [Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media](#amsterdam-university-of-applied-sciences-auas-faculty-of-digital-media-and-creative-industries-lectorate-of-play-civic-media)
-    - [Vurb BV](#vurb-bv)
-
 ## Public Software
 
 Public Software is type of software built to operate with and as public infrastructure.
