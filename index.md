@@ -15,6 +15,15 @@ For creative industries players such as developers and creative agencies, it is 
 
 This project addresses these knowledge gaps through three workshops in which the most important issues for this transition will be identified, leading to a Guide for the Deployment of Public Software as well as a research agenda and an international network of stakeholders.
 
+## Mission of this project
+
+We need to activate the public discourse around the realisation that «Code == Code» and provide tools such as Public Code to help society navigate the increasing speed of technological change.
+
+The realisation that source and policy are both code – the former executed by machines and the latter by humans – means we need to look differently at the software developed for public tasks than we do for private tasks.
+
+Public Code is an early stage concept for a type of code developed with the public interest in mind.
+It is held to standards to guarantee that it is inclusive, usable, adaptive, open and sustainable.
+
 ## Public Software
 
 Public Software is type of software built to operate with and as public infrastructure.
