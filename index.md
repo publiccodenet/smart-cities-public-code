@@ -173,7 +173,7 @@ The city of Amsterdam can learn from international stakeholders and also present
 
 ## Research plan
 
-The project will run from February 2018 until September 2018.
+The project will run from February 2018 until February 2018.
 The project is organized around three (international) workshops / network meetings, each lasting two days.
 During these work shops parties involved in the deployment of public software will be invited to share their learnings, discuss their issues, and develop an agenda for the further development of public software.
 A framework for these meetings will developed by the project partners in the first month of the project, following desk research and internal meetings.
