@@ -6,7 +6,7 @@ Public Code is an early stage concept for a type of code developed with the publ
 
 This project aims to further develop the concept of Public Code. More concretely: How should we understand Public Code, and how can we create it? What kind of technological and institutional arrangements are needed to shift towards the production of Public Code.
 
-In a series of workshop, we want to build a network of collaborators to identify directions for the development of public code, and set up research & development projects and grant applications.
+In a [series of workshop](workshops/index.md), we want to build a network of collaborators to identify directions for the development of public code, and set up research & development projects and grant applications.
 
 ## Introduction
 
@@ -160,11 +160,11 @@ The city of Amsterdam can learn from international stakeholders and also present
 | Deliverable | Partners | Timeframe |
 |-------|-------|-------|
 | Partner meeting, setting the stage | AUAS & VURB & City of Amsterdam | |
-| Workshop 1 Code4All summit in Bucharest | AUAS & VURB & City of Amsterdam | 8 oct 2018 |
+| [Workshop 1 Code4All summit in Bucharest](workshops/bucurest.md) | AUAS & VURB & City of Amsterdam | 8 oct 2018 |
 | Report Workshop 1 | AUAS & VURB |  |
-| Workshop 2 Smart City World Expo in Barcelona | AUAS & VURB |  |
+| [Workshop 2 Smart City World Expo in Barcelona](workshops/barcelona.md) | AUAS & VURB | 16 nov 2018 |
 | Report Workshop 2 | AUAS & VURB |  |
-| Workshop 3 | AUAS & VURB |  |
+| [Workshop 3 at the City of Amsterdam](workshops/amsterdam.md) | AUAS & VURB | 19-20 nov 2018 |
 | Report Workshop 3 | AUAS & VURB |  |
 | Guide for the Deployment of Public Software | VURB |  |
 | Network Overview (Index of relevant parties) | VURB |  |
