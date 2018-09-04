@@ -6,11 +6,19 @@ Public Code is an early stage concept for a type of code developed with the publ
 
 This working group is following up on the research of a consortium made out of the Foundation for Public Code, the City of Amsterdam and Amsterdam University of Applied Sciences. The aim is to gather information for the benefit of this research and to start a network of collaborators on the topic.
 
+## workshop programme
 In this workshop we will:
 1. Identify the current problems with software in public institutions.
 2. Explore solutions: What can we do about this? Who can do it?
 3. Discuss challenges:What is stopping us from implementing these solutions
 
+## workshop goals
 The goal of this workshop is to further develop the concept of Public Code. How should we understand Public Code, and how can we create it? What kind of technological and institutional arrangements are needed to shift towards the production of Public Code.
 
 This workshop is part of a series of events that will lead to a implementation guide for public software, a research agenda, and a consortium for future research
+
+## who should participate
+anyone interested in the application of IT in public institutions, and the safeguarding of public values in software procurement and development. Experience in city government is welcome but not required.
+
+## want to participate? 
+email boris@publiccode.net
