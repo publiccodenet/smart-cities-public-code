@@ -4,10 +4,6 @@ toc: false
 
 # Workshops
 
-## [The Heroes Of Tech (Code4All summit)](bucurest)
-
-October 8, București
-
-## Smart City Expo World Congress
-
-## City of Amsterdam
+1. October 8: [The Heroes Of Tech (Code4All summit)](bucurest), București
+2. Smart City Expo World Congress, Barcelona
+3. City of Amsterdam
