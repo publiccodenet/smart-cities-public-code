@@ -1,6 +1,6 @@
 # Workshop Public Code @ Code4all 
-Bucuresti October 8th
-
+Bucuresti October 8th 16:00-17:30
+https://heroesoftech.com/
 
 Public Code is an early stage concept for a type of code developed with the public interest in mind. This means we need to look differently at the software developed for public tasks as compared to the one for private tasks. At a minimum, we should guarantee that it is inclusive, usable, adaptive, open and sustainable.
 
