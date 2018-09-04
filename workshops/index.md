@@ -1,3 +1,7 @@
+---
+toc: false
+---
+
 # Workshops
 
 ## [The Heroes Of Tech (Code4All summit)](bucurest)
