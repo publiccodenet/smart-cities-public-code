@@ -158,14 +158,14 @@ The city of Amsterdam can learn from international stakeholders and also present
 ## Deliverables & Activities
 
 | Deliverable | Partners | Timeframe |
-|-------|-------|
+|-------|-------|-------|
 | Partner meeting, setting the stage | AUAS & VURB & City of Amsterdam | |
-| Workshop Bucharest at [Code for All summit](https://heroesoftech.com/) | AUAS & VURB & City of Amsterdam | 8 oct 2018 |
-| Report Workshop Amsterdam | AUAS & VURB |  |
-| Workshop Barcelona at Smart City World Expo | AUAS & VURB |  |
-| Report Workshop Barcelona | AUAS & VURB |  |
-| Workshop Brussel | AUAS & VURB |  |
-| Report Workshop Brussel | AUAS & VURB |  |
+| Workshop 1 Code4All summit in Bucharest | AUAS & VURB & City of Amsterdam | 8 oct 2018 |
+| Report Workshop 1 | AUAS & VURB |  |
+| Workshop 2 Smart City World Expo in Barcelona | AUAS & VURB |  |
+| Report Workshop 2 | AUAS & VURB |  |
+| Workshop 3 | AUAS & VURB |  |
+| Report Workshop 3 | AUAS & VURB |  |
 | Guide for the Deployment of Public Software | VURB |  |
 | Network Overview (Index of relevant parties) | VURB |  |
 | Research Agenda | AUAS |  |
