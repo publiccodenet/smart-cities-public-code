@@ -159,17 +159,17 @@ The city of Amsterdam can learn from international stakeholders and also present
 
 | Deliverable | Partners | Timeframe |
 |-------|-------|
-| Partner meeting, setting the stage | AUAS & VURB & City of Amsterdam | February 2018 |
-| Workshop Amsterdam | AUAS & VURB & City of Amsterdam | March 2018 |
-| Report Workshop Amsterdam | AUAS & VURB | March 2018 |
-| Workshop Barcelona | AUAS & VURB | April 2018 |
-| Report Workshop Barcelona | AUAS & VURB | April 2018 |
-| Workshop Brussel | AUAS & VURB | May 2018 |
-| Report Workshop Brussel | AUAS & VURB | May 2018 |
-| Guide for the Deployment of Public Software | VURB | September 2018 |
-| Network Overview (Index of relevant parties) | VURB | September 2018 |
-| Research Agenda | AUAS | September 2018 |
-| Final Presentation Public Event | AUAS & VURB | September 2018 |
+| Partner meeting, setting the stage | AUAS & VURB & City of Amsterdam | |
+| Workshop Bucharest at [Code for All summit](https://heroesoftech.com/) | AUAS & VURB & City of Amsterdam | 8 oct 2018 |
+| Report Workshop Amsterdam | AUAS & VURB |  |
+| Workshop Barcelona at Smart City World Expo | AUAS & VURB |  |
+| Report Workshop Barcelona | AUAS & VURB |  |
+| Workshop Brussel | AUAS & VURB |  |
+| Report Workshop Brussel | AUAS & VURB |  |
+| Guide for the Deployment of Public Software | VURB |  |
+| Network Overview (Index of relevant parties) | VURB |  |
+| Research Agenda | AUAS |  |
+| Final Presentation Public Event | AUAS & VURB |  |
 
 ## Research plan
 
