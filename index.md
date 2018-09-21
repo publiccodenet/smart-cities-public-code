@@ -62,7 +62,7 @@ The discussions about the creation of this guide will also be used to draft a re
 What steps need to be taken next in terms of research and development for the further propagation of public software?
 
 Through these workshops and its subsequent publication of the Guide and the Research Agenda we aim to connect research institutions, municipalities and higher level government policy makers and creative industry companies around this important theme and stimulate further cooperation in this field.
-As such the scope of this project is mainly an agenda-building one, that aims to identify main stakeholders, list the most important issues, build a research agenda and set-up a practical guide based on our knowledge so-far.
+As such, the scope of this project is mainly an agenda-building one, that aims to identify main stakeholders, list the most important issues, build a research agenda and set-up a practical guide based on our knowledge so far.
 
 ## Relevance in relation to the Dutch national knowledge agenda
 
