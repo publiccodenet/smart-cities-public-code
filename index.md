@@ -176,7 +176,7 @@ The city of Amsterdam can learn from international stakeholders and also present
 The project will run from February 2018 until February 2018.
 The project is organized around three (international) workshops / network meetings, each lasting two days.
 During these workshops, parties involved in the deployment of public software will be invited to share their learnings, discuss their issues, and develop an agenda for the further development of public software.
-A framework for these meetings will developed by the project partners in the first month of the project, following desk research and internal meetings.
+A framework for these meetings will be developed by the project partners in the first month of the project, following desk research and internal meetings.
 
 Contributors to these workshops will come from municipalities, national and European regulatory agencies, software developers, think tanks & consultancies, NGOs and researchers.
 Examples are representatives from Barcelona’s and Amsterdam’s CTO office, researchers from the Organicity H2020 research project, representatives from the Open and Agile Smart Cities Foundation, Delta10 open source software development for cities, Kennisland etc.
