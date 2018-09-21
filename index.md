@@ -44,13 +44,13 @@ Currently, software procurement and development is mostly still approached like 
 As a result, the initial round of engagements with digital infrastructure, contacted under the rubric of Smart Cities, were often onerous relationships with enterprise software corporations.
 These contracts often locked cities into long-term, expensive software systems which controlled access to the cities’ own data and decision-making processes.
 Often the very function of governance was outsourced to 3rd party providers, and city governments learned hard lessons about losing control of operations and knowledge that they thought was firmly under their own oversight.
-Increasingly, cities are learning that commissioning the software that runs their internal functions is more like making decisions about zoning or taxation, some of the most political and important decisions a city can make. 
+Increasingly, cities are learning that commissioning the software that runs their internal functions is more like making decisions about zoning or taxation, some of the most political and important decisions a city can make.
 We propose that this type of software be thought of similarly to other infrastructure that falls squarely in the remit of the city to produce and maintain: Public Software.
 
 Cities like Amsterdam and Barcelona have already dedicated large budgets to tools, platforms, and policies around digital services for citizens and municipal governments.
 Now, cities are entering a new wave of procurement of these core functional digital infrastructures.
 Many of the major cities in the Netherlands and across Europe have decided to build internal groups working on digital infrastructure projects.
-However, these cities are not yet leveraging the power of open development through collaboration and sharing of the products of their work across municipalities.
+However, these cities are not yet leveraging the power of open development through collaboration and sharing of their products across municipalities.
 There still is a lack of knowledge on how cities can organize a process of public software development, and how in this process cities can learn from each other, share code basis, and on the other side how both cities and creative industries professionals can build business models around this process.
 
 This project aims to address these issues.
