@@ -44,7 +44,7 @@ Currently, software procurement and development is mostly still approached like 
 As a result, the initial round of engagements with digital infrastructure, contacted under the rubric of Smart Cities, were often onerous relationships with enterprise software corporations.
 These contracts often locked cities into long-term, expensive software systems which controlled access to the cities’ own data and decision-making processes.
 Often the very function of governance was outsourced to 3rd party providers, and city governments learned hard lessons about losing control of operations and knowledge that they thought was firmly under their own oversight.
-Yet, increasingly cities are learning that commissioning the software that runs their internal functions is more like making decisions about zoning or taxation, some of the most political and important decisions a city can make.
+Increasingly, cities are learning that commissioning the software that runs their internal functions is more like making decisions about zoning or taxation, some of the most political and important decisions a city can make. 
 We propose that this type of software be thought of similarly to other infrastructure that falls squarely in the remit of the city to produce and maintain: Public Software.
 
 Cities like Amsterdam and Barcelona have already dedicated large budgets to tools, platforms, and policies around digital services for citizens and municipal governments.
