@@ -20,7 +20,7 @@ That means that transparency and data-ownership are becoming important public va
 Most proprietary software systems that cities are currently using in their operations do not fulfill these requirements.
 Therefore a transition is needed to the deployment of what we call public software.
 
-To bring this transition about, for municipal governments it is important to learn more about the process in which public software can be procured, deployed and shared between cities.
+To bring this transition about, municipal governments want to learn more about the process in which public software can be procured, deployed and shared between cities.
 For creative industries players such as developers and creative agencies, it is important to gain further knowledge about what role they can play in this process and learn more about possible business models to sustain the production and upkeep of public software.
 
 This project addresses these knowledge gaps through three workshops in which the most important issues for this transition will be identified, leading to a Guide for the Deployment of Public Software as well as a research agenda and an international network of stakeholders.
