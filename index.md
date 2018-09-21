@@ -204,7 +204,7 @@ Contributing to agenda setting for network meetings/workshops.
 
 Knowledge partner, wants to further the research and knowledge on public values and urban infrastructure. 
 
-Project management. Agenda setting for network meetings. Reporting on network meetings. Contributing to Guides. Development of Research Agenda.
+Does project management. Sets the agenda for network meetings. Reports on network meetings. Contributes to Guides. Develops the Research Agenda.
 
 ### Vurb BV
 
