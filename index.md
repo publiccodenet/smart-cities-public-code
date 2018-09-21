@@ -187,7 +187,7 @@ The movement for public software is an international one, and it is therefore im
 Barcelona is chosen as a site, because the city is known as a forerunner in this field, with a very active CTO office.
 Brussels is an interesting place as it is the residency of many international and European organization active in this field, such as the Open and Agile Smart Cities programme.
 
-All workshops will be followed by a report with the main findings.
+After each workshop, a report with the main findings will be distributed.
 After the workshops, a first edition of the Guide for the Deployment of Public Software will be compiled and an agenda for further research will be drafted.
 
 The Guide and the Agenda will be presented at a public event at the end of the project.
