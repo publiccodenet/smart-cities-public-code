@@ -33,7 +33,7 @@ Public Software is almost always developed using Open Source methodologies, wher
 Decisions made by heuristics, algorithms, or machine learning within the code can be explored and understood by anyone.
 Any output is available as open data or public domain content whenever possible within privacy constraints.
 Public software is meant to be freely available to download and run in any municipality around the globe.
-Cities, NGOs, and private agencies can create new business models by charging fees to help develop, install, configure, and maintain running versions of Public Software, but they cannot charge for the software itself which is free and openly available.
+Cities, NGOs, and private agencies can create new business models by charging fees to help develop, install, configure and maintain running versions of Public Software, but they cannot charge for the software itself which is free and openly available. 
 
 ## This project
 
