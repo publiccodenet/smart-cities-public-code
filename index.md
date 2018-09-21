@@ -145,7 +145,7 @@ This is an emerging approach that has recently gained international recognition 
 
 This project connects the AUAS with some leading actors in the field of public software development such as the Amsterdam and Barcelona CTO offices, and will strengthen its position in international networks such as the Open and Agile Smart Cities programme.
 
-Contacts with organizations and stakeholders in Barcelona and Brussel will be beneficial for it position in future international research grant applications, and being one of the initiators of the research agenda will further acknowledge its position as a leading research institute in the domain of the creative industries.
+Contacts with organizations and stakeholders in Barcelona and Brussel will be beneficial for its position in future international research grant applications, and being one of the initiators of the research agenda will further acknowledge its position as a leading research institute in the domain of the creative industries.
 
 ### Improving position network partners
 
