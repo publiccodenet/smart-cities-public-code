@@ -115,7 +115,7 @@ In this project, Vurb, City of Amsterdam, and HvA are working to identify the fr
 
 This project will feature creative industries based in Amsterdam at the center of an international movement in which cities around the world are starting to consider a public software approach.
 It will explore both the design & deployment process of public software as well as business models to support this development.
-As such it will lay out a new direction for creative industries as well as new relations between governments, citizens and creative industries to develop city software from a public interest perspective.
+As such, it will lay out a new direction for creative industries as well as new relations between governments, citizens and creative industries to develop city software from a public interest perspective.
 
 ## Role and participation of partners
 
