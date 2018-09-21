@@ -94,7 +94,7 @@ Over the last few years they have invested a lot of energy and resources in publ
 They have by now developed a number of projects, and are interested in the question how these can be made productive beyond their initial state.
 For example, what would it take for other cities to use some of the public software that they have been developing?
 
-Other cities have only recently (or are still to) discovered the importance of public software deployment.
+Other cities have only recently discovered (or are still to discover) the importance of public software deployment.
 They are looking for practical angles.
 What would a successful trajectory for the deployment of public software look like? These municipalities need guidance on development of continuously delivered software products.
 The cities need product validation guides and design pattern languages.
