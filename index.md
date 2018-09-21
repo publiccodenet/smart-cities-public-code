@@ -139,7 +139,7 @@ This project takes that research one step further and makes it concrete by zoomi
 ## Innovation
 
 The project is innovative as it aims to contribute to the development of a new model for the deployment of public software for cities, taking a pubic values angle.
-This is an emerging approach that has recently gained international recognition by cities such as Amsterdam and Barcelona, yet many questions still remain open as to how to further forward this approach.
+This is an emerging approach that has recently gained international recognition by cities such as Amsterdam and Barcelona, yet many questions still remain open as to how to further this approach.
 
 ### Improving the position of Amsterdam University of Amsterdam
 
