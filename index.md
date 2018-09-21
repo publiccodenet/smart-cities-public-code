@@ -15,7 +15,7 @@ In a [series of workshops](workshops/index.md), we want to build a network of co
 This project aims to contribute to the transition from proprietary smart city software to the design & employment of ‘public software’ that can be deployed by cities in their operational and policy processes in order to better safeguard public values.
 
 With the advance of smart city technologies software deployed by municipalities can no longer be understood as just a productivity tool.
-The mechanics and algorithms operative in the software and the data it collects have become key elements in the execution of urban policy and have started to become a resource for decision making processes.
+The mechanics and algorithms operative in the software and the data it collects have become key elements in the execution of urban policy and have started to become a resource for decision-making processes.
 That means that transparency and data-ownership are becoming important public values in software deployment.
 Most proprietary software systems that cities are currently using in their operations do not fulfill these requirements.
 Therefore a transition is needed to the deployment of what we call public software.
