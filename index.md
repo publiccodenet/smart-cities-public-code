@@ -49,7 +49,7 @@ We propose that this type of software be thought of similarly to other infrastru
 
 Cities like Amsterdam and Barcelona have already dedicated large budgets to tools, platforms, and policies around digital services for citizens and municipal governments.
 Now, cities are entering a new wave of procurement of these core functional digital infrastructures.
-Many of the major cities in the Netherlands and across Europe have decided to build internal groups working on digital infrastructural projects.
+Many of the major cities in the Netherlands and across Europe have decided to build internal groups working on digital infrastructure projects.
 However, these cities are not yet leveraging the power of open development through collaboration and sharing of the products of their work across municipalities.
 There still is a lack of knowledge on how cities can organize a process of public software development, and how in this process cities can learn from each other, share code basis, and on the other side how both cities and creative industries professionals can build business models around this process.
 
