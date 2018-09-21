@@ -121,7 +121,7 @@ As such, it will lay out a new direction for creative industries as well as new 
 
 The consortium has three core partners.
 
-The City of Amsterdam is internationally a forerunner in the deployment of public software.
+Internationally, the City of Amsterdam is a forerunner in the deployment of public software.
 It is looking for ways to further develop this model of software deployment.
 How can cities collaborate on the further development and deployment of public software? In this project, it will contribute its experiences so far, and help in the setting of the framework and agenda for the workshops.
 Their involvement also means that the learnings from this project are directly looped back to the local government of Amsterdam
