@@ -6,7 +6,7 @@ Public Code is an early stage concept for a type of code developed with the publ
 
 This project aims to further develop the concept of Public Code. How should we understand Public Code, and how can we create it? What kind of technological and institutional arrangements are needed to shift towards the production of Public Code?
 
-In a [series of workshop](workshops/index.md), we want to build a network of collaborators to identify directions for the development of public code, and set up research & development projects and grant applications.
+In a [series of workshops](workshops/index.md), we want to build a network of collaborators to identify directions for the development of public code and set up research & development projects and grant applications.
 
 ## Introduction
 
