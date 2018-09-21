@@ -197,16 +197,14 @@ The Guide and the Agenda will be presented at a public event at the end of the p
 ### Gemeente Amsterdam, Office of CTO
 
 Client & developer of software; looking for ways to further develop models for inter-city collaboration in development of public software.
+
 Contributing to agenda setting for network meetings/workshops.
 
 ### Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
 
-Knowledge partner, wants to forward research and knowledge on public values and urban infrastructure
-Project management
-Agenda setting for network meetings
-Reporting on network meetings
-Contributing to Guides
-Development of Research Agenda
+Knowledge partner, wants to further the research and knowledge on public values and urban infrastructure. 
+
+Project management. Agenda setting for network meetings. Reporting on network meetings. Contributing to Guides. Development of Research Agenda.
 
 ### Vurb BV
 
