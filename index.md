@@ -198,7 +198,7 @@ The Guide and the Agenda will be presented at a public event at the end of the p
 
 Client & developer of software; looking for ways to further develop models for inter-city collaboration in development of public software.
 
-Contributing to agenda setting for network meetings/workshops.
+Contributes to agenda setting for network meetings/workshops.
 
 ### Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
 
