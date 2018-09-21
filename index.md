@@ -92,7 +92,7 @@ The underlying questions and knowledge gaps for this project have been identifie
 In the first place, there are the fore-runner cities such as Amsterdam and Barcelona.
 Over the last few years they have invested a lot of energy and resources in public software creation, either directly or through their engagement in research projects such as those funded by Horizon2020.
 They have by now developed a number of projects, and are interested in the question how these can be made productive beyond their initial state.
-What would it take for other cities for instance to use some of the public software that they have been developing?
+For example, what would it take for other cities to use some of the public software that they have been developing?
 
 Other cities have only recently (or are still to) discovered the importance of public software deployment.
 They are looking for practical angles.
