@@ -208,8 +208,6 @@ Does project management. Sets the agenda for network meetings. Reports on networ
 
 ### Vurb BV
 
-Design and development partner, wants to concretize the formation of our public service Foundation around this process, looking for models and processes for the deployment of public software.
-Identification of stakeholders
-Inviting stakeholders to workshops
-Development of Guides
-Contributing to Research Agenda
+Design and development partner, wants to concretize the formation of our public service Foundation around this process, looking for models and processes for the deployment of public software. 
+
+Identifies stakeholders. Invites stakeholders to workshops. Develops Guides. Contributes to the Research Agenda.
