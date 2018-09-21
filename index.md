@@ -104,7 +104,7 @@ Research institutions have also been involved in the production of public softwa
 Their main issue is the question of how they can develop their software from a ‘project’ to a ‘product’ that can be deployed in other contexts beyond the original test cases.
 
 Lastly, there are creative industry companies (as well as foundations and NGOs) who are active in this field and who are looking for a role as ‘orchestrators’ for the development of public software.
-There is need for market places, consultancy on productization, as well as guidance of continuous development of public software, and business models to sustain this practice.
+There is a need for market places, consultancy on productization, as well as guidance of continuous development of public software, and business models to sustain this practice.
 
 Questions that need to be addressed are: How can cities collaboratively build digital infrastructure using agile continuous delivery techniques that have enabled massive software products in major cloud software enterprises? How can smaller municipalities most easily deploy software developed by this network? How can 3rd parties [companies and public agencies] participate most productively in this development effort, both as producers and implementers of larger municipal public digital projects?
 
