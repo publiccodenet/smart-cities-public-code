@@ -183,7 +183,7 @@ Examples are representatives from Barcelona’s and Amsterdam’s CTO office, re
 The exact parties will be identified in the first month of the project.
 
 The workshops will take place in Amsterdam, Barcelona and Brussels.
-The movement for public software is an international one, and therefor it is important to involve international stakeholders in this process.
+The movement for public software is an international one, and it is therefore important to involve international stakeholders in this process.
 Barcelona is chosen as a site, because the city is know as a forerunner in this field, with a very active CTO office.
 Brussels is an interesting place as it is the residency of many international and european organization active in this field, such as for instance the Open and Agile Smart Cities programme.
 
