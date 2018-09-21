@@ -124,7 +124,7 @@ The consortium has three core partners.
 Internationally, the City of Amsterdam is a forerunner in the deployment of public software.
 It is looking for ways to further develop this model of software deployment.
 How can cities collaborate on the further development and deployment of public software? In this project, it will contribute its experiences so far, and help in the setting of the framework and agenda for the workshops.
-Their involvement also means that the learnings from this project are directly looped back to the local government of Amsterdam
+Their involvement also means that the learnings from this project are directly looped back to the local government of Amsterdam.
 
 Vurb BV is a design and strategic consulting agency focused on creating a viable future for cities and civic operating systems that are highly participatory and drive societal engagement.
 They communicate, prototype, and implement this future by researching and developing applications, technologies and policy.
