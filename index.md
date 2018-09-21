@@ -101,7 +101,7 @@ The cities need product validation guides and design pattern languages.
  Smaller cities need ‘unboxing’ guides as consumers/deployers of these productized public platforms.
 
 Research institutions have also been involved in the production of public software, for instance through H2020 grants.
-Their main issue is the question how they can develop their software from a ‘project’ to a ‘product’, that can be deployed in other contexts beyond the original test cases.
+Their main issue is the question of how they can develop their software from a ‘project’ to a ‘product’ that can be deployed in other contexts beyond the original test cases.
 
 Last, there are creative industry companies (as well as foundations and NGOs) active in this field, that are looking for a role as ‘orchestrators’ for the development of public software.
 There is need for market places, consultancy on productization, as well as guidance of continuous development of public software, and business models to sustain this practice.
