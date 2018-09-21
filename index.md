@@ -58,7 +58,7 @@ We want to form a network of stakeholders involved in the creation of public sof
 With them we want to identify the main issues, opportunities and challenges for the deployment of public code.
 We want to do this by compiling a first edition of a Guide for the Deployment of Public Software that documents steps and issues involved in the deployment of public software.
 This guide will be produced in co-creation sessions in three international workshop.
-The discussions about the making of this guide will be used to also draft up a research agenda.
+The discussions about the creation of this guide will also be used to draft a research agenda.
 What steps need to be taken next in terms of research and development for the further propagation of public software?
 
 Through these workshops and its subsequent publication of the Guide and the Research Agenda we aim to connect research institutions, municipalities and higher level government policy makers and creative industry companies around this important theme and stimulate further cooperation in this field.
