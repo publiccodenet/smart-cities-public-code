@@ -12,7 +12,7 @@ In a [series of workshops](workshops/index.md), we want to build a network of co
 
 «Smart Cities? Public Code!» is a collaboration between the City of Amsterdam, the Amsterdam University of Applied Sciences and Vurb.Agency.
 
-This project aims to contribute to the transition from proprietary smart city software to the design & employment of ‘public software’ that can be deployed by cities in their operational and policy processes, in order to better safeguard public values.
+This project aims to contribute to the transition from proprietary smart city software to the design & employment of ‘public software’ that can be deployed by cities in their operational and policy processes in order to better safeguard public values.
 
 With the advance of smart city technologies, software deployed by municipalities can no longer be understood as just a productivity tool.
 The mechanics and algorithms operative in the software and the data it collects have become key elements in the execution of urban policy and have started to become a resource for decision making processes.
