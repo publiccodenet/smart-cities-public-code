@@ -129,7 +129,7 @@ Their involvement also means that the learnings from this project are directly l
 Vurb BV is a design and strategic consulting agency focused on creating a viable future for cities and civic operating systems that are highly participatory and drive societal engagement.
 They communicate, prototype, and implement this future by researching and developing applications, technologies and policy.
 Vurb is in the process of launching a Foundation to serve as a resource and nexus for Public Software development.
-This project will serve to provide context and focus to our initial efforts there.
+This project will serve to provide context and focus to their initial efforts there.
 In this project they will be responsible for the production of the Guide.
 
 The Amsterdam University of Applied Sciences will connect the consortium with international (academic) research networks on public values and urban infrastructure.
