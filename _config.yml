@@ -20,9 +20,19 @@ show_navigation: true
 defaults:
   -
     scope:
+      path: ""
+    values:
+      order: 50
+  -
+    scope:
       path: "/README.md"
     values:
       hidden: true
+  -
+    scope:
+      path: "/index.md"
+    values:
+      order: 0
   -
     scope:
       path: "/AUTHORS.md"
