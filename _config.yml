@@ -23,3 +23,8 @@ defaults:
       path: "/README.md"
     values:
       hidden: true
+    -
+    scope:
+      path: "/AUTHORS.md"
+    values:
+      order: 100
