@@ -17,3 +17,4 @@ Gemeente Amsterdam, Office of CTO
 Individual Contributors
 
 * Claus Mullie
+* Timo Slinger
