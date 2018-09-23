@@ -27,4 +27,4 @@ defaults:
     scope:
       path: "/AUTHORS.md"
     values:
-      order: 100
+      hidden: true
