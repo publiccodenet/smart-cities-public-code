@@ -6,11 +6,20 @@ plugins:
   - jekyll-remote-theme
 
 # Also render the README to HTML even if there is an index.md
-include:
-  - README.md
+# include:
+#  - README.md
 
 # Use the Foundation For Public Code Jekyll theme
 remote_theme: publiccodenet/jekyll-theme
 
 # Display a table of contents on every page
 toc: true
+
+show_navigation: true
+
+defaults:
+  -
+    scope:
+      path: "/README.md"
+    values:
+      hidden: true
