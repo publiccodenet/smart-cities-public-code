@@ -16,7 +16,7 @@ $ bundle install
 
 1. Run the Jekyll server with 
 ```bash
-$ bundle exec jekyll serve
+$ bundle exec jekyll serve --livereload
 ```
 2. You can now view the website locally on <http://127.0.0.1:4000>
 
