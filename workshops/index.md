@@ -22,4 +22,4 @@ This workshop is part of a series of events that will lead to a implementation g
 
 ---
 
-These workshops are part of the «[Smart Cities? Public Code!](../index.md)» programme.
+These workshops are part of the *[Smart Cities? Public Code!](../index.md)* programme.
