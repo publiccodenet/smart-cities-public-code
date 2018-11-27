@@ -1,6 +1,6 @@
 # Smart Cities? Public Code! website
 
-Website for «Smart Cities? Public Code!» programme by the University of Applied Sciences Amsterdam, City of Amsterdam and the Foundation For Public Code.
+Website for *Smart Cities? Public Code!* programme by the University of Applied Sciences Amsterdam, City of Amsterdam and the Foundation For Public Code.
 
 This site builds with [Jekyll](http://jekyllrb.com/), as is the default of [GitHub pages](https://pages.github.com/) and uses the [Foundation For Public Code Jekyll Theme](https://github.com/publiccodenet/jekyll-theme).
 
