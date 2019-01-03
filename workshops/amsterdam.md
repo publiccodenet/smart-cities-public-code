@@ -1,5 +1,5 @@
 # Workshop Public Code @ Amsterdam
-Amsterdam, November 19 12:00-18:00 and November 20 10:00-16:00
+Amsterdam, November 20 10:00-16:00 at the Amsterdam University of Applied Sciences
 
 Public Code is an early stage concept for a type of code developed with the public interest in mind. This means we need to look differently at the software developed for public tasks as compared to the one for private tasks. At a minimum, we should guarantee that it is inclusive, usable, adaptive, open and sustainable.
 
