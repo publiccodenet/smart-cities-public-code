@@ -4,7 +4,7 @@ Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Cr
 
 * Martijn De Waal
 
-Foundation For Public Code
+[Foundation For Public Code](https://publiccode.net)
 
 * Ben Cerveny
 * Boris van Hoytema
@@ -17,4 +17,7 @@ Gemeente Amsterdam, Office of CTO
 Individual Contributors
 
 * Claus Mullie
+
+[Vurb BV](https://vurb.agency)
+
 * Timo Slinger
