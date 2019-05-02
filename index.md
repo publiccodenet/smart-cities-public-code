@@ -21,7 +21,7 @@ Most proprietary software systems that cities are currently using in their opera
 Therefore a transition is needed to the deployment of what we call public software.
 
 To bring this transition about, municipal governments want to learn more about the process in which public software can be procured, deployed and shared between cities.
-For creative industries players such as developers and creative agencies, it is important to gain further insight in the role they can play in this process and for them to learn more about the possible business models to sustain the production and upkeep of public software. 
+For creative industries players such as developers and creative agencies, it is important to gain further insight in the role they can play in this process and for them to learn more about the possible business models to sustain the production and upkeep of public software.
 
 This project addresses these knowledge gaps through three workshops in which the most important issues for this transition will be identified, leading to a Guide for the Deployment of Public Software as well as a research agenda and an international network of stakeholders.
 
@@ -33,7 +33,7 @@ Public Software is almost always developed using Open Source methodologies, wher
 Decisions made by heuristics, algorithms, or machine learning within the code can be explored and understood by anyone.
 Any output is available as open data or public domain content whenever possible within privacy constraints.
 Public software is meant to be freely available to download and run in any municipality around the globe.
-Cities, NGOs, and private agencies can create new business models by charging fees to help develop, install, configure and maintain running versions of Public Software, but they cannot charge for the software itself which is free and openly available. 
+Cities, NGOs, and private agencies can create new business models by charging fees to help develop, install, configure and maintain running versions of Public Software, but they cannot charge for the software itself which is free and openly available.
 
 ## This project
 
@@ -160,16 +160,16 @@ The city of Amsterdam can learn from international stakeholders and also present
 | Deliverable | Partners | Timeframe |
 |-------|-------|-------|
 | Partner meeting, setting the stage | AUAS & VURB & City of Amsterdam | |
-| [Workshop 1 Code4All summit in Bucharest](workshops/bucurest.md) | AUAS & VURB & City of Amsterdam | 8 oct 2018 |
+| [Workshop 1 Code4All summit in Bucharest](workshops/bucurest.md) | AUAS & VURB & City of Amsterdam | 8 October 2018 |
 | Report Workshop 1 | AUAS & VURB |  |
-| [Workshop 2 Smart City World Expo in Barcelona](workshops/barcelona.md) | AUAS & VURB | 16 nov 2018 |
+| [Workshop 2 Smart City World Expo in Barcelona](workshops/barcelona.md) | AUAS & VURB | 16 November 2018 |
 | Report Workshop 2 | AUAS & VURB |  |
-| [Workshop 3 at the City of Amsterdam](workshops/amsterdam.md) | AUAS & VURB | 19-20 nov 2018 |
+| [Workshop 3 at the City of Amsterdam](workshops/amsterdam.md) | AUAS & VURB | 19-20 November 2018 |
 | Report Workshop 3 | AUAS & VURB |  |
-| Guide for the Deployment of Public Software | VURB |  |
+| [Guide for the Deployment of Public Software](http://standard.publiccode.net/) | VURB |  |
 | Network Overview (Index of relevant parties) | VURB |  |
 | Research Agenda | AUAS |  |
-| Final Presentation Public Event | AUAS & VURB |  |
+| [Final Presentation Public Event](https://www.meetup.com/DataLab-Amsterdam/events/260303655/) | AUAS & VURB | 18 April 2019 |
 
 ## Research plan
 
@@ -202,12 +202,12 @@ Contributes to agenda setting for network meetings/workshops.
 
 ### Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
 
-Knowledge partner, wants to further the research and knowledge on public values and urban infrastructure. 
+Knowledge partner, wants to further the research and knowledge on public values and urban infrastructure.
 
 Does project management. Sets the agenda for network meetings. Reports on network meetings. Contributes to Guides. Develops the Research Agenda.
 
 ### Vurb BV
 
-Design and development partner, wants to concretize the formation of our public service Foundation around this process, looking for models and processes for the deployment of public software. 
+Design and development partner, wants to concretize the formation of our public service Foundation around this process, looking for models and processes for the deployment of public software.
 
 Identifies stakeholders. Invites stakeholders to workshops. Develops Guides. Contributes to the Research Agenda.
