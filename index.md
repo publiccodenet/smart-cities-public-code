@@ -29,10 +29,10 @@ This project addresses these knowledge gaps through three workshops in which the
 
 Public Software is type of software built to operate with and as public infrastructure.
 It is designed to be as transparent, legible, and accessible as possible within its operating regulatory framework.
-Public Software is almost always developed using Open Source methodologies, where all the code is freely human readable and not under restrictive licensing.
+Public Software is developed using Open Source methodologies, where all the code is freely human readable and not under restrictive licensing.
 Decisions made by heuristics, algorithms, or machine learning within the code can be explored and understood by anyone.
 Any output is available as open data or public domain content whenever possible within privacy constraints.
-Public software is meant to be freely available to download and run in any municipality around the globe.
+Public software is freely available to download and run in any municipality around the globe.
 Cities, NGOs, and private agencies can create new business models by charging fees to help develop, install, configure and maintain running versions of Public Software, but they cannot charge for the software itself which is free and openly available.
 
 ## This project
