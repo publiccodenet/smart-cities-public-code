@@ -78,7 +78,7 @@ The concept of public code does just that. It is meant as a set of characteristi
 
 During this research project, the Foundation for Public Code developed a first version for such a Standard for Public Code. It was derived from input in the workshops as well as from the concepts and principles that have surfaced in the various manifestos and ethical guidelines developed by local, national and supranational governments, as well as by think tanks on ethics. In April 2019 a first version (0.1.0) was publicly presented, with an open invitation to contribute to the further development of the Standard.
 
-[See the current version of the Standard for Public Code](https://standard.publiccode.net/) .
+[See the current version of the Standard for Public Code](https://standard.publiccode.net/).
 
 ### Formal procedures for establishing a standard
 
