@@ -1,6 +1,6 @@
 # Authors
 
-Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
+Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, [Lectorate of Play and Civic Media](https://www.amsterdamuas.com/create-it/shared-content/research-groups/play-and-civic-media/play-and-civic-media.html)
 
 * Martijn De Waal
 
@@ -14,7 +14,7 @@ Gemeente Amsterdam, Office of CTO
 * Tamas Erkelens
 * Mark van der Net
 
-Individual Contributors
+Individual contributors
 
 * Claus Mullie
 
