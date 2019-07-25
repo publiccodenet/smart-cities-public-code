@@ -26,10 +26,7 @@ This document is meant as a starting point for a research agenda that could furt
 
 This research agenda presents the outcomes of three workshops organized by Vurb.Agency, the Amsterdam University of Applied Sciences and the Municipality of Amsterdam. The goal was to further develop the concept of public code, start shaping up a Standard for Public Code and lay the foundations for a new organization for the stewardship of public code, provisionally labeled The Foundation for Public Code. Participants in the workshops included various stakeholders and actors producing, working with and being affected by software run by local, regional or national governments.
 
-`> fix weird bullets?`
-- The first workshop took place at the gov-tech and civic-tech centered International Code4all Conference in Bucharest
-- the second in parallel with the Smart City Expo World Congress in Barcelona, an event aimed at amongst others industries and governments
-- in a third workshop representatives of civil society, software companies and research institutes convened in Amsterdam  
+The first workshop took place at the gov-tech and civic-tech centered International Code4all Conference in Bucharest. The second in parallel with the Smart City Expo World Congress in Barcelona, an event aimed at amongst others industries and governments. In a third workshop, representatives of civil society, software companies and research institutes convened in Amsterdam.
 
 These workshops addressed three main questions:
 
