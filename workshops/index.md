@@ -10,7 +10,7 @@ This series of workshops is organized by a consortium made out of the Foundation
 
 ## Workshops
 
-* October 8: [The Heroes Of Tech (Code4All summit) București](bucurest.md)
+* October 8: [The Heroes Of Tech (Code4All summit) București](bucharest.md)
 * November 16: [Smart City Expo World Congress, Barcelona](barcelona.md)
 * November 20: [City of Amsterdam](amsterdam.md)
 
