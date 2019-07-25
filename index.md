@@ -87,63 +87,54 @@ This project addresses the question of how public values can be safeguarded in t
 ## Network, relevant questions and knowledge gaps
 
 The underlying questions and knowledge gaps for this project have been identified by various parties that are part of this consortium as well as actors in their networks.
-In the first place, there are the fore-runner cities such as Amsterdam and Barcelona.
-Over the last few years they have invested a lot of energy and resources in public software creation, either directly or through their engagement in research projects such as those funded by Horizon2020.
-They have by now developed a number of projects, and are interested in the question how these can be made productive beyond their initial state.
-For example, what would it take for other cities to use some of the public software that they have been developing?
+In the first place, there are the forerunner cities such as Amsterdam and Barcelona.
+
+Over the last few years they have invested a lot of energy and resources in public software creation, either directly or through their engagement in research projects such as those funded by Horizon2020. They have by now developed a number of projects, and are interested in the question how these can be made productive beyond their initial state. For example, what would it take for other cities to use some of the public software that they have been developing?
 
 Other cities have only recently discovered (or are still to discover) the importance of public software deployment.
-They are looking for practical angles.
-What would a successful trajectory for the deployment of public software look like? These municipalities need guidance on development of continuously delivered software products.
-The cities need product validation guides and design pattern languages.
- Smaller cities need ‘unboxing’ guides as consumers/deployers of these productized public platforms.
+They are looking for practical angles. What would a successful trajectory for the deployment of public software look like? These municipalities need guidance on development of continuously delivered software products.
+The cities need product validation guides and design pattern languages. Smaller cities need ‘unboxing’ guides as consumers/deployers of these productized public platforms.
 
-Research institutions have also been involved in the production of public software, for instance through H2020 grants.
-Their main issue is the question of how they can develop their software from a ‘project’ to a ‘product’ that can be deployed in other contexts beyond the original test cases.
+Research institutions have also been involved in the production of public software, for instance through H2020 grants. Their main issue is the question of how they can develop their software from a ‘project’ to a ‘product’ that can be deployed in other contexts beyond the original test cases.
 
 Lastly, there are creative industry companies (as well as foundations and NGOs) who are active in this field and who are looking for a role as ‘orchestrators’ for the development of public software.
-There is a need for market places, consultancy on productization, as well as guidance of continuous development of public software, and business models to sustain this practice.
+There is a need for marketplaces, consultancy on productization, as well as guidance of continuous development of public software, and business models to sustain this practice.
 
 Questions that need to be addressed are: How can cities collaboratively build digital infrastructure using agile continuous delivery techniques that have enabled massive software products in major cloud software enterprises? How can smaller municipalities most easily deploy software developed by this network? How can third parties, such as companies and public agencies, participate most productively in this development effort, both as producers and implementers of larger municipal public digital projects?
 
-In this project, Vurb, City of Amsterdam, and AUAS are working to identify the friction points in both the development of these large projects and their deployment across smaller municipalities.
+In this project, Vurb, City of Amsterdam and AUAS are working to identify the friction points in both the development of these large projects and their deployment across smaller municipalities.
+
  We are seeing this shift from proprietary to public development, but what do the business models look like and how do municipalities begin or grow these ecosystems? As a larger collection of public digital infrastructural tools is developed, creative and technical industries will need guidance on how to participate in new business models around providing value as implementers of instances of these tools and platforms as services.
 
-## How does it contribute to the [Dutch creative industries topsector ](https://www.rvo.nl/onderwerpen/innovatief-ondernemen/topsectoren/topsector-creatieve-industrie)
+## How does it contribute to the [Dutch creative industries topsector](https://www.rvo.nl/onderwerpen/innovatief-ondernemen/topsectoren/topsector-creatieve-industrie)
 
 This project will feature creative industries based in Amsterdam at the center of an international movement in which cities around the world are starting to consider a public software approach.
+
 It will explore both the design and deployment process of public software as well as business models to support this development.
+
 As such, it will lay out a new direction for creative industries as well as new relations between governments, citizens and creative industries to develop city software from a public interest perspective.
 
 ## Role and participation of partners
 
 The consortium has three core partners.
 
-Internationally, the City of Amsterdam is a forerunner in the deployment of public software.
-It is looking for ways to further develop this model of software deployment.
-How can cities collaborate on the further development and deployment of public software? In this project, it will contribute its experiences so far, and help in the setting of the framework and agenda for the workshops.
-Their involvement also means that the learnings from this project are directly looped back to the local government of Amsterdam.
+Internationally, the City of Amsterdam is a forerunner in the deployment of public software. It is looking for ways to further develop this model of software deployment. How can cities collaborate on the further development and deployment of public software? In this project, it will contribute its experiences so far, and help in the setting of the framework and agenda for the workshops. Their involvement also means that the learnings from this project are directly looped back to the local government of Amsterdam.
 
-Vurb BV is a design and strategic consulting agency focused on creating a viable future for cities and civic operating systems that are highly participatory and drive societal engagement.
-They communicate, prototype, and implement this future by researching and developing applications, technologies and policy.
-Vurb is in the process of launching a Foundation to serve as a resource and nexus for Public Software development.
-This project will serve to provide context and focus to their initial efforts there.
+Vurb BV is a design and strategic consulting agency focused on creating a viable future for cities and civic operating systems that are highly participatory and drive societal engagement. They communicate, prototype and implement this future by researching and developing applications, technologies and policy. Vurb is in the process of launching a foundation to serve as a resource and nexus for public software development. This project will serve to provide context and focus to their initial efforts there.
 In this project they will be responsible for the production of the Guide.
 
 The Amsterdam University of Applied Sciences will connect the consortium with international (academic) research networks on public values and urban infrastructure.
-In the past few years, it has been part of a number of research projects that explore public values in relation to urban infrastructure development.
-This project takes that research one step further and makes it concrete by zooming in to the case of public software deployment.
+In the past few years, it has been part of a number of research projects that explore public values in relation to urban infrastructure development. This project takes that research one step further and makes it concrete by zooming in to the case of public software deployment.
 
 ## Innovation
 
-The project is innovative as it aims to contribute to the development of a new model for the deployment of public software for cities, taking a pubic values angle.
-This is an emerging approach that has recently gained international recognition by cities such as Amsterdam and Barcelona, yet many questions still remain open as to how to further this approach.
+The project is innovative as it aims to contribute to the development of a new model for the deployment of public software for cities, taking a pubic values angle. This is an emerging approach that has recently gained international recognition by cities such as Amsterdam and Barcelona, yet many questions still remain open as to how to further this approach.
 
 ### Improving the position of Amsterdam University of Applied Sciences
 
 This project connects the AUAS with some leading actors in the field of public software development such as the Amsterdam and Barcelona CTO offices, and will strengthen its position in international networks such as the Open and Agile Smart Cities programme.
 
-Contacts with organizations and stakeholders in Barcelona and Brussel will be beneficial for its position in future international research grant applications, and being one of the initiators of the research agenda will further acknowledge its position as a leading research institute in the domain of the creative industries.
+Contacts with organizations and stakeholders in Barcelona and Brussels will be beneficial for its position in future international research grant applications, and being one of the initiators of the research agenda will further acknowledge its position as a leading research institute in the domain of the creative industries.
 
 ### Improving position network partners
 
@@ -165,28 +156,22 @@ The city of Amsterdam can learn from international stakeholders and also present
 | [Workshop 3 at the City of Amsterdam](workshops/amsterdam.md) | AUAS and VURB | 19-20 November 2018 |
 | Report Workshop 3 | AUAS and VURB |  |
 | [Guide for the Deployment of Public Software](http://standard.publiccode.net/) | VURB |  |
-| Network Overview (Index of relevant parties) | VURB |  |
-| [Research agenda] | AUAS |  |
+| Network Overview (index of relevant parties) | VURB |  |
+| Research agenda | AUAS |  |
 | [Final Presentation Public Event](https://www.meetup.com/DataLab-Amsterdam/events/260303655/) | AUAS and VURB | 18 April 2019 |
 
 ## Research plan
 
 The project will run from February 2018 until February 2019.
-The project is organized around three (international) workshops / network meetings, each lasting two days.
-During these workshops, parties involved in the deployment of public software will be invited to share their learnings, discuss their issues, and develop an agenda for the further development of public software.
-A framework for these meetings will be developed by the project partners in the first month of the project, following desk research and internal meetings.
+The project is organized around three (international) workshops/network meetings, each lasting two days.
+During these workshops, parties involved in the deployment of public software will be invited to share their learnings, discuss their issues, and develop an agenda for the further development of public software. A framework for these meetings will be developed by the project partners in the first month of the project, following desk research and internal meetings.
 
-Contributors to these workshops will come from municipalities, national and European regulatory agencies, software developers, think tanks and consultancies, NGOs and researchers.
-Examples are representatives from Barcelona’s and Amsterdam’s CTO office, researchers from the Organicity H2020 research project, representatives from the Open and Agile Smart Cities Foundation, Delta10 open source software development for cities, Kennisland etc.
-The exact parties will be identified in the first month of the project.
+Contributors to these workshops will come from municipalities, national and European regulatory agencies, software developers, think tanks and consultancies, NGOs and researchers. Examples are representatives from the Barcelona and Amsterdam CTO offices, researchers from the Organicity H2020 research project, representatives from the Open and Agile Smart Cities Foundation, Delta10 open source software development for cities, Kennisland etc. The exact parties will be identified in the first month of the project.
 
-The workshops will take place in Amsterdam, Barcelona and Brussels.
-The movement for public software is an international one, and it is therefore important to involve international stakeholders in this process.
-Barcelona is chosen as a site, because the city is known as a forerunner in this field, with a very active CTO office.
-Brussels is an interesting place as it is the residency of many international and European organization active in this field, such as the [Open and Agile Smart Cities programme](https://oascities.org/).
+The workshops will take place in Amsterdam, Barcelona and Brussels. The movement for public software is an international one, and it is therefore important to involve international stakeholders in this process. Barcelona has been chosen as a site because the city is known as a forerunner in this field, with a very active CTO office.
+Brussels is an interesting place as it is the home of many international and European organizations active in this field, such as the [Open and Agile Smart Cities programme](https://oascities.org/).
 
-After each workshop, a report with the main findings will be distributed.
-After the workshops, a first edition of the Guide for the Deployment of Public Software will be compiled and an agenda for further research will be drafted.
+After each workshop, a report with the main findings will be distributed. After the workshops, a first edition of the Guide for the Deployment of Public Software will be compiled and an agenda for further research will be drafted.
 
 The Guide and the Agenda will be presented at a public event at the end of the project.
 
@@ -206,6 +191,6 @@ Does project management. Sets the agenda for network meetings. Reports on networ
 
 ### Vurb BV
 
-Design and development partner, wants to concretize the formation of our public service Foundation around this process, looking for models and processes for the deployment of public software.
+Design and development partner, wants to concretize the formation of our public service foundation around this process, looking for models and processes for the deployment of public software.
 
 Identifies stakeholders. Invites stakeholders to workshops. Develops Guides. Contributes to the Research Agenda.
