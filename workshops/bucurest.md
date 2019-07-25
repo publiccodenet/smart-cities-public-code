@@ -108,7 +108,7 @@ Another unclarity in our use of public software is its precise domain of applica
 
 ### The 'Smart Citizen'
 
-We started off by positioning public software against the black box proprietary smart city approach of the city as a service, wanting to contribute to the transition from proprietary smart city software to the design & employment of ‘public code’ that can be deployed by cities in their operational and policy processes in order to better safeguard public values.
+We started off by positioning public software against the black box proprietary smart city approach of the city as a service, wanting to contribute to the transition from proprietary smart city software to the design and employment of ‘public code’ that can be deployed by cities in their operational and policy processes in order to better safeguard public values.
 In addition, we have now found that we also have to define ourselves in relation to the ‘smart citizen’ perspective of civic tech. Civic tech takes a more tactical perspective whereas we take a more fundamental and ontological approach. Civic tech also runs the risk of becoming solutionist, somehow embracing a silicon valley or web 2.0 ethos of appropriating existing tech to solve civil societies’ issues, without a deeper rethinking of the underlying principles in these tools. It is not that we are against civic tech, or smart cities, but both need an underlying public software approach.
 
 ## What we can do next
@@ -116,7 +116,7 @@ In addition, we have now found that we also have to define ourselves in relation
 There are various things we could do.
 
 1. Strengthen ‘ontological’ vision of software as platform and active agent shaping society. There is a bit of literature on this in software studies and platform studies. This could be the underlying philosophical argument for our case, and could be developed in a position paper as well as in a scientific paper or journal article.
-2. Develop a ‘design manifesto’ or guidelines or process for software development from a public code perspective: a what & how on public software.
+2. Develop a ‘design manifesto’ or guidelines or process for software development from a public code perspective: a what and how on public software.
 3. Develop policy guidelines for public code (e.g. is public code something like a GDPR that affects all software and platforms, or is it mainly applicable to particular areas?)
 4. Develop software standards for public code and a licensing scheme.
 5. Develop ideas for a public code production ecosystem: what should this look like, who is responsible for it, what kind of market places and collaborations do we foresee, is there a business model etc?

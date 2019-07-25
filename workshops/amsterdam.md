@@ -25,7 +25,7 @@ The concept of Public Code provides for this need for sovereignty and digital ci
 A series of criteria were discussed that should be operative in public code software and its documentation:
 
 * Privacy: how is the privacy of data guaranteed?
-* (Meta)data procedures & flows: what are the inputs and outputs of the software? What data byproducts are produced? Where does the software tap into other systems and databases?
+* (Meta)data procedures and flows: what are the inputs and outputs of the software? What data byproducts are produced? Where does the software tap into other systems and databases?
 * Margin of error: can this be made explicit in the code or documentation?
 * Data-legibility: to what extent should not only the code itself but also the data it collects and produces be part of the public code requirements?
 * Limits: probably not all data-processing processes should be open. If the algorithm for fraud detection is made public, this would enable fraudulent actors to change their practices to circumvent the algorithm. In the case of predictive policing, this principle becomes more ambivalent. On the one hand, criminals would be well served by opening-up the underlying algorithmic processes. On the other, citizens could claim they have a right to understand why their behavior is scrutinized, and to what extent racist or other biases play a role in the algorithms.
