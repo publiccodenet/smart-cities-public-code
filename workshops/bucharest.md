@@ -2,7 +2,7 @@
 
 *This workshop took place at October 8th 16:00-17:30 at the [Code for All summit Heroes Of Tech](https://heroesoftech.com/) in Bucharest, Romania*
 
-The *Smart Cities? Public Code!* project aims to explore and develop the concept of public code. Public Code is an early stage concept for a type of code developed with the public interest in mind. This means we need to look differently at the software developed for public tasks as compared to the one for private tasks. At a minimum, we should guarantee that it is inclusive, usable, adaptive, open and sustainable.
+The *Smart Cities? Public Code!* project aims to explore and develop the concept of public code. Public Code is an early stage concept for a type of code developed with the public interest in mind. This means we need to look differently at the software developed for public tasks as compared to software for private tasks. At a minimum, we should guarantee that it is inclusive, usable, adaptive, open and sustainable.
 
 In three international workshops, the context, challenges and opportunities for public code are discussed with various actors in the field. How should we understand Public Code, what should we expect from it, and how can we create it? What kind of technological and institutional arrangements are needed to shift towards the production of Public Code?
 
