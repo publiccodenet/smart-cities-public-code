@@ -157,7 +157,7 @@ The city of Amsterdam can learn from international stakeholders and also present
 | Report Workshop 3 | AUAS and VURB |  |
 | [Guide for the Deployment of Public Software](http://standard.publiccode.net/) | VURB |  |
 | Network Overview (index of relevant parties) | VURB |  |
-| Research agenda | AUAS |  |
+| [Research agenda](research-agenda.md) | AUAS |  | July 2019
 | [Final Presentation Public Event](https://www.meetup.com/DataLab-Amsterdam/events/260303655/) | AUAS and VURB | 18 April 2019 |
 
 ## Research plan

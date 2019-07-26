@@ -10,13 +10,13 @@ This series of workshops is organized by a consortium made out of the Foundation
 
 ## Workshops
 
-* October 8: [The Heroes Of Tech (Code4All summit) București](bucharest.md)
+* October 8: [The Heroes Of Tech (Code4All summit), București](bucharest.md)
 * November 16: [Smart City Expo World Congress, Barcelona](barcelona.md)
 * November 20: [City of Amsterdam](amsterdam.md)
 
 ## Goal
 
-The goals of these workshop is to further develop the concept of Public Code. How should we understand Public Code, and how can we create it? What kind of technological and institutional arrangements are needed to shift towards the production of Public Code.
+The goals of these workshop is to further develop the concept of public code. How should we understand public code, and how can we create it? What kind of technological and institutional arrangements are needed to shift towards the production of public code.
 
 This workshop is part of a series of events that will lead to a implementation guide for public software, a research agenda, and a consortium for future research
 

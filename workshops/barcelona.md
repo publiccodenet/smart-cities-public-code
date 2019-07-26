@@ -8,7 +8,7 @@ In three international workshops, the context, challenges and opportunities for 
 
 The first workshop took place in Bucharest, during the conference Heroes of Tech, organized by Code for All, an international network of organizations supporting each other to empower citizens to meaningfully engage in the public sphere and have a positive impact on their communities.
 
-The second workshop took place in Barcelona, during the Smart City World Expo.  We gathered a small group of participants from public institutions, NGOs and companies working in the space to build on the findings of the first workshop and consider some further issues.
+The second workshop took place in Barcelona, during the Smart City World Expo. We gathered a small group of participants from public institutions, NGOs and companies working in the space to build on the findings of the first workshop and consider some further issues.
 
 ## What are the current problems with digital technology in cities?
 
@@ -16,7 +16,7 @@ As this workshop happened in the shadow of the Smart City Expo, many of the part
 
 Often in their initial deployment, these software packages succeed in solving many of the most egregious issues that cities have around the management of infrastructure, resources and information. But fairly quickly into the engagement, municipal governments realise that they are effectively trapped in a system of ever-increasing licensing fees, proprietary data stores to which they have to pay to access their own data, and inflexible solutions that cannot be adapted by their own technology teams to respond effectively to local problems.
 
-Part of the reason cities find themselves in the situation is due to a long-standing mindset about their relationship with technology. For decades, cities have treated the adoption of technology, and ICT in general, as an exotic technical task, far separated from the core activity of governance and policy production.  Many key decision makers around technological deployment in municipal governments have little or no literacy about the implications of various architectural choices involving the deployment of SaaS solutions, etc. Customization work is often outsourced to contractors who have no long term relationship with municipalities, and thus, the knowledge is lost between engagements and municipal actors are left at the mercy of the high cost consulting rates of the initial software providers.
+Part of the reason cities find themselves in the situation is due to a long-standing mindset about their relationship with technology. For decades, cities have treated the adoption of technology, and ICT in general, as an exotic technical task, far separated from the core activity of governance and policy production. Many key decision makers around technological deployment in municipal governments have little or no literacy about the implications of various architectural choices involving the deployment of SaaS solutions, etc. Customization work is often outsourced to contractors who have no long term relationship with municipalities, and thus, the knowledge is lost between engagements and municipal actors are left at the mercy of the high cost consulting rates of the initial software providers.
 
 ### Information
 
@@ -40,7 +40,7 @@ Part of the reason cities find themselves in the situation is due to a long-stan
 
 ## What can we do about these problems? And who can?
 
-Almost any solution to this problem begins with cultural transformation and education within the body of civil servants that make up the core of municipal function. The key issue is that policy makers realize that their work will slowly become a directly digital process, and that the fundamental work of municipal government will involve the production of software in support of policy implementation. From this perspective, the process of producing software becomes a core activity of the municipality.  
+Almost any solution to this problem begins with cultural transformation and education within the body of civil servants that make up the core of municipal function. The key issue is that policy makers realize that their work will slowly become a directly digital process, and that the fundamental work of municipal government will involve the production of software in support of policy implementation. From this perspective, the process of producing software becomes a core activity of the municipality.
 
 Much of our discussion here centred around the creation of new roles and discourses bringing stakeholders within government up to speed on their new responsibilities as codebase custodians. The idea of reforming general education and education within government to include public digital literacy was put forward. Also among workshop participants, much concern was expressed that the general public would also need to be kept informed of the changing relationship between government and software. This is where the workshop really began to delve into the concept of public code as a resource that would address many of the concerns that the general public have about the use of technology in government, in that public code is transparent, inclusive and adaptive to the needs of local citizens.
 
@@ -50,7 +50,7 @@ Much of our discussion here centred around the creation of new roles and discour
 * Reform of education to include public digital literacy
 * Deconstructing the smart city
 * Techno-legal framework for privacy protection and data-extraction prevention
-* Make public-private collaborations more attractive.  New revenue models?
+* Make public-private collaborations more attractive. New revenue models?
 * Celebrate risk-taking
 * Provide outreach from municipalities to non-tech industries about how they can benefit and participate
 * Shared vocabulary
@@ -69,9 +69,9 @@ Much of our discussion here centred around the creation of new roles and discour
 
 ## What is stopping us from doing this?
 
-The workshop participants agreed that the number one block to this type of transformation was almost entirely a lack of effective communication about the drawbacks of commercial software licensing as it currently stands, and the opportunity for municipalities to collaborate in public code development and maintenance.  Problems range from the inability to quantify the economic advantages of public collaboration, to the inability to communicate the real changes necessary in technological infrastructure in a tactical way, rather than as an abstract appeal to high-level principles.  Larger issues in general software development, such as making code and its processes legible and starting from user concerns in the design process, also play a role in gaining early positive feedback and momentum in public coding projects.
+The workshop participants agreed that the number one block to this type of transformation was almost entirely a lack of effective communication about the drawbacks of commercial software licensing as it currently stands, and the opportunity for municipalities to collaborate in public code development and maintenance. Problems range from the inability to quantify the economic advantages of public collaboration, to the inability to communicate the real changes necessary in technological infrastructure in a tactical way, rather than as an abstract appeal to high-level principles. Larger issues in general software development, such as making code and its processes legible and starting from user concerns in the design process, also play a role in gaining early positive feedback and momentum in public coding projects.
 
-In general the consensus was that civil servants are naturally risk-averse and fairly conservative in changes to their process. Most participants considered this a good thing,  as it provides continuity in the face of rapidly changing politics on the higher levels of municipal government. Thus, the case that one must make to induce an appetite for digital transformation to public code development processes across the board needs to be grounded in very sound economic and policy arguments, as well as providing evidence that the agency of the civil servants themselves will not be eroded by the arrival of new digital tools.
+In general the consensus was that civil servants are naturally risk-averse and fairly conservative in changes to their process. Most participants considered this a good thing, as it provides continuity in the face of rapidly changing politics on the higher levels of municipal government. Thus, the case that one must make to induce an appetite for digital transformation to public code development processes across the board needs to be grounded in very sound economic and policy arguments, as well as providing evidence that the agency of the civil servants themselves will not be eroded by the arrival of new digital tools.
 
 * Lack of literacy in digital rights of policy makers
 * Lack of understanding of the need for this by stakeholders
