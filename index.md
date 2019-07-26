@@ -6,7 +6,7 @@ Public Code is an early stage concept for a type of code developed with the publ
 
 This project aims to further develop the concept of Public Code. How should we understand Public Code, and how can we create it? What kind of technological and institutional arrangements are needed to shift towards the production of Public Code?
 
-In a [series of workshops](workshops/index.md), we want to build a network of collaborators to identify directions for the development of public code and set up research and development projects and grant applications.
+In a [series of workshops](workshops/index.md), we want to build a network of collaborators to identify directions for the development of public code and [set up research & development projects](research-agenda.md) and grant applications.
 
 ## Introduction
 
@@ -21,7 +21,7 @@ Therefore a transition is needed to the deployment of what we call public softwa
 To bring this transition about, municipal governments want to learn more about the process in which public software can be procured, deployed and shared between cities.
 For creative industries players such as developers and creative agencies, it is important to gain further insight in the role they can play in this process and for them to learn more about the possible business models to sustain the production and upkeep of public software.
 
-This project addresses these knowledge gaps through three workshops in which the most important issues for this transition will be identified, leading to a Guide for the Deployment of Public Software as well as a research agenda and an international network of stakeholders.
+This project addresses these knowledge gaps through three workshops in which the most important issues for this transition will be identified, leading to a [Guide for the Deployment of Public Software](https://standard.publiccode.net/) as well as a [research agenda](research-agenda.md) and an international network of stakeholders.
 
 ## Public software
 
