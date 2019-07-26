@@ -1,4 +1,4 @@
-# Workshop Public Code @ Barcelona Smart City Expo
+# Workshop Public Code @ Smart City Expo, Barcelona
 
 *This workshop took place at November 16 10:00-18:00 in Barcelona*
 
