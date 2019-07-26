@@ -8,7 +8,7 @@ Public Code is an early stage concept for a type of code developed with the publ
 
 This series of workshops is organized by a consortium made out of the Foundation for Public Code, the City of Amsterdam and Amsterdam University of Applied Sciences. The aim is to gather information for the benefit of this research and to start a network of collaborators on the topic.
 
-## Workshops
+## Workshop dates
 
 * October 8: [The Heroes Of Tech (Code4All summit), București](bucharest.md)
 * November 16: [Smart City Expo World Congress, Barcelona](barcelona.md)

@@ -58,13 +58,11 @@ Another problem is ‘re-inventing the wheel syndrome'. It is hard to develop so
 
 Next, software procurement and development is mostly still approached like one might order some custom furniture for a municipal building. As a result, the initial round of engagements with digital infrastructure contacted under the rubric of smart cities were often onerous relationships with enterprise software corporations. These contracts often locked cities into long-term, expensive software systems which controlled access to the cities’ own data and decision-making processes. Often the very function of governance was outsourced to 3rd party providers and city governments learned hard lessons about losing control of operations and knowledge that they thought was firmly under their own oversight. Increasingly, cities are learning that commissioning the software that runs their internal functions is more like making decisions about zoning or taxation - some of the most political and important decisions a city can make. However, this insight is currently not structurally embraced in procurement practices.
 
-## What we can do about these problems
-
-### Values perspective
+## What we can do about these problems: values perspective
 
 We need to advocate a new vision and understanding of software as a basic infrastructure in our societies and as an active agent in the shaping of the public domain. From a values perspective, it means that the articulation of public values in relation to software should become a standard aspect of policy at a generic level. Such a values perspective should also become part of the development of concrete software projects. A society-centered design perspective needs to be put in place next to or on top of a human-centered one.
 
-### Production perspective
+## What we can do about these problems: production perspective
 
 From a more concrete production perspective, various strategic approaches were mentioned:
 
@@ -77,15 +75,13 @@ From a more concrete production perspective, various strategic approaches were m
 * Guarding the streams of data that are being created by, as well as those required for, the software
 * Create a ‘datasheet’ taking into account which information is considered when the software automates its ruling
 
-## What is stopping us from doing this
-
-### Values perspective
+## What is stopping us from doing this: values perspective
 
 So far there has been a lack of understanding of software as an active agent and basic infrastructure at a political level. And whereas commercial software developers and platform companies have large sales forces and lobby teams, there is only limited lobby power for open source or public code perspectives. Additionally, there is no public infrastructure for the support and development of open source communities (which exists for things like public broadcasting).
 
 Entrenched interests in the vendor ecosystem (and in some countries also corruption) are not helping to create a broader consciousness about the implications of software for the public domain.
 
-### Production perspective
+## What is stopping us from doing this: production perspective
 
 An open source approach or public software framework are not seen as urgent. Even though the current procurement model often fails, these failures do not have political consequences. People more or less expect software development to be complex and to not live up to the expectations they have. Additionally, the consequences of failures in public software more often than not touch the disempowered, whereas software companies will get their bills paid anyways.
 
@@ -107,7 +103,7 @@ Public software as we have been using it is currently referring to various theme
 * A values-in-design or a participatory design framework for the production of software in learning communities that iteratively co-creates software for the management of various services in the public domain; understanding software as an ecology, and applying not a human-centered design, but a society-centered design.
 * A normative ethos: all actors involved in the production or management of public resources should embrace an approach to software and platforms that put public values first, and efficiency or commercial value production second. This goes beyond the mere standards with regard to e.g. privacy or legibility.
 
-We may have to better articulate this stack of approaches, or perhaps choose a focus. Or we may have to better articulate the logic between these layers. That could begin with an ontological understanding of software as infrastructure. That would lead to a normative ethos in which this infrastructural layer should be developed from a public values perspective. Which would lead to a particular design framework, prompting questions, such as “how do we do this?”, and answers, such as “through a values-in-design perspective, learning communities and a set of standards.” The outcome could then be an open source-market place for these technologies. Do we want to tell this whole story? Or do we want to focus on particular aspects? Which of these layers is the focus of the ‘public software’ concept? 
+We may have to better articulate this stack of approaches, or perhaps choose a focus. Or we may have to better articulate the logic between these layers. That could begin with an ontological understanding of software as infrastructure. That would lead to a normative ethos in which this infrastructural layer should be developed from a public values perspective. Which would lead to a particular design framework, prompting questions, such as “how do we do this?”, and answers, such as “through a values-in-design perspective, learning communities and a set of standards.” The outcome could then be an open source-market place for these technologies. Do we want to tell this whole story? Or do we want to focus on particular aspects? Which of these layers is the focus of the ‘public software’ concept?
 
 So far our interest have been wavering between these layers. In the workshop we started off with the goal to discuss tech questions such as “what should be the specifications of public code?” But we discussed social issues such as illiteracy in governments, the lack of an 'ecology' model for software development, and the need for a society-centered design perspective.
 
