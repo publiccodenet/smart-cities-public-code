@@ -4,8 +4,6 @@ Type: resource
 
 # Research Agenda: Next steps for the development of public code
 
-By Martijn de Waal
-
 ## Introduction: Code == Code
 
 Software has started to play an important role in our societies, and is becoming a structuring element in the public domain. For example, big data analysis has started to inform policy making; smart city software now executes policies and monitors behavior in cities; and websites and apps provide government services to citizens. Similarly, online platforms orchestrate various forms of interaction between governments and their constituents – from consultation of citizens in urban redevelopment processes to granting of licenses.
