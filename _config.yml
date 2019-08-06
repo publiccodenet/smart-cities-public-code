@@ -38,3 +38,6 @@ defaults:
       path: "/AUTHORS.md"
     values:
       hidden: true
+
+titles_from_headings:
+  strip_title: true
