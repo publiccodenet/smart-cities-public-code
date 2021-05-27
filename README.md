@@ -24,4 +24,4 @@ The server will rebuild the site every time a file changes, with the exception o
 
 # License
 
-© 2018 University of Applied Sciences Amsterdam, City of Amsterdam and the Foundation for Public Code
+© 2021 University of Applied Sciences Amsterdam, City of Amsterdam and the Foundation for Public Code
